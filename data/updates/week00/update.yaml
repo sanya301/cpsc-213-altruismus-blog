@@ -1,81 +1,107 @@
 ---
-title: A week of joys and opportunity
+title: Starting Up Our Start-Up
 summary: |
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
-  We were on [Hacker News](https://news.ycombinator.com/). Also,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat.
+  Who are our customers? What is their pain? What kind of magical software will solve their pain?
 news:
-  - title: Got our *first* customer!
+  - title: Got our *first* update up!
     kind: joy
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.
-  - title: Can't get client side API working yet
+  - title: Found it hard to find a fixed meeting time
     kind: struggle
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.
-  - title: Can't get client side API working yet
+  - title: Still trying to figure out how to beautify this site
     kind: learning
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat.
-
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.
+Who is our customer or customers?
+  * Millennials
+  * Students in college 
+  * Students just out of college
+  * Middle-aged people in a full-time job with or without children
+  * Middle schools
+  
+What is their *pain*?
+  * Time constraint to perform community service (to do research etc.)
+  * Lack of knowledge 
+  * Not a lot of options
+  
+What kind of software do you think will solve their pain?
+  * Taking the geolocation and schedule of each user and compiling a list of options for them
+  * Being able to see reviews from previous volunteers 
 
-These updates are written in
-[Github Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/).
+How do you know these things?
+  * Personal experience of wanting to do service but being unable to find the time to research  
 
-You can also use [Nunjucks](https://mozilla.github.io/nunjucks/templating.html)
-to do fancy things like. "Our team name is `{{data.team.name}}`". The content
-will be passed through Nunjucks first and then the Markdown will be rendered.
+How will you reach these customers and convert them into users of your app?
+  * College community organizations
+  * Service blogs
+  * Facebook groups 
+  * Middle school groups 
 
-Paragraphs are separated by a blank line.
+Could this potentially be used by millions of people? Why do you think so?
+ * **Yes**! Think of Yelp, but for volunteer organizations.
+ 
+ > “Recent studies in psychology showed that the pursuit of self-interest may not be the clearest 
+ >  path to the greater good or personal happiness.”
+ > – Professor Dacher Keltner of the University of California Berkley 
+ * In other words, people are realizing that service and selflessness is a component to happiness
+ * Our theory is that the main thing stopping people from doing service work is inconvenience 
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
+How do you imagine that you would support this venture? Is it non-profit? Is it for profit?
 
-  * this one
-  * that one
-  * the other one
+It is a for-profit venture. We plan on charging a small monthly fee, a minimum amount of $1.99 for 
+supporting the app. If they pay anything above $1.99, the balance will go to an organization of the month that has signed up with us. 
 
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+What are the biggest risks? 
+  * Lack of operating costs
+  * Premature scale, growing too fast
+  * People aren’t willing to pay (the app does not solve the problem/this is not even a problem)
+  * Even with the app people are not going to volunteer
+  * The team didnt have the right knowledge base to build the startup correctly 
 
-Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
-in chapters 12--14"). Three dots ... will be converted to an ellipsis.
-Unicode is supported. ☺
+Now that you know the biggest risks, how could you most swiftly allay your fears about them? 
+  * By conducting interviews and asking questions like – will customers be willing to pay, do they volunteer, 
+   if they don’t volunteer, why? Would this app increase their likeliness to volunteer? 
+  * By faking the app to test theories
+  * We have google and Kyle and TAs and magic 
 
-You can even write code! For example, some python
-```python
-x = 5
-for i in range(10):
-  print i
-```
+How can we maximize impact and what do we need to build?
+  * Getting as many organizations and users registered
+  * Push notifications are an annoying blessing
+  * Implementation in public schools - make this an app teachers use to organize class volunteer trips
 
-or some javascript
+How will software function?
+* Log in, provide details (location, time)
+* A menu with categories to tell you what kind of service is available near you tailored to your schedule
 
-```javascript
-var x = 'foo';
-while(true){
-  console.log('awesome');
-}
-```
+Describe the application architecture and technical choices needed to build that software. 
+> How is it divided between client and server? 
+  * We will use the MVC model  (JavaScript for both client and server side)
+  
+> How do they communicate? 
+  * Client interacts with the view layer, which as described above may incluse logging in, selecting categories
+  and entering . These interactions are communicated through the controller which updates the model. On the other hand,
+  when a model object is changed, the controller is notified which in turn updates the view.
+
+> How are you storing data? 
+  * SQL
+  
+> How will you manage, test, and deploy your code?
+  * We will use a shared repository on cloud 9 to manage and collaborate on the code. 
+  * We will deploy our code using Heroku 
+  
+> What technology stack are you going to use?
+  * Git hub is god, Git hub is life
+  
+> How is our software designed? How do the pieces fit together?
+  * Geolocation of user and destination are pull via java command from html framework styled in css. 
+  Javascript is used to write to or pull content from a SQL database (fat model). The SQL database provides existing data 
+  on the service opportunities (ID, location, time) and is joined with client inputs to produce the overlapping recommendation.
+  The SQL database will include information about User ID, geolocations, service type preference, service types and volunteer 
+  organizations IDs
+  
+  fin. 
+  
+> *“I slept and dreamt that life was joy. 
+> I awoke and saw that life was service. 
+> I acted and behold, service was joy.” *
+>                 ― Rabindranath Tagore
+  ![Image of Quote](http://cdn.zenpencils.com/wp-content/uploads/2013-10-09-tagore.jpg)
