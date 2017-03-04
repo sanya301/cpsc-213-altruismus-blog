@@ -1,28 +1,24 @@
 ---
-name: Windy emu
-app:
-  name: Whap Chat
-  url: http://whapchat.com
-  twitter_username: whapchat
-  repo: http://git.yale.edu/foo
-  tagline: Chat metrics done right
+name: Saamjo
+app: 
+  name: TBD
+  url: http://TBD.com
+  twitter_username: TBD
+  repo: https://github.com/yale-cpsc-213/team-blog-saamjo
+  tagline: TBD
   value: |
-    For non-technical marketers
-    who struggle to find return on investment in social media
-    our product is a web-based analytics software that translates engagement
-    metrics into actionable revenue metrics.
+    For the busy, principled people
+    who struggle to find the time and opportunity for community service
+    our product is a location-based database that gives you service opportunities near you 
+    by taking geolocation and schedule metrics.
 members:
-  - first_name: Julia
-    last_name: Zia
-    email: julia.zia@yale.edu
-  - first_name: Jason
-    last_name: Brown
-    email: jason.brown@yale.edu
-  - first_name: April
-    last_name: Killington
-    email: april.killington@yale.edu
-  - first_name: Dirk
-    last_name: Hatch
-    email: dirk.hatch@yale.edu
+  - first_name: Amanda
+    last_name: Lee
+    email: yueping.lee@yale.edu
+  - first_name: Jonathan
+    last_name: Shaffer
+    email: jonathan.shaffer@yale.edu
+  - first_name: Sanya
+    last_name: Nijhawan
+    email: sanya.nijhawan@yale.edu
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
