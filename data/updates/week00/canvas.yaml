@@ -1,26 +1,17 @@
 ---
 problem:
-  - title: Sharing lots of photos and videos is a time consuming
+  - title: Searching for an organization to volunteer for is very time consuming
     invalidated: false # whether this has been invalidated. Used to show change
-    confidence: 5
+    confidence: 
     description: |
      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
       veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
       commodo consequat.
 
-  - title: Parents have no free time
+  - title: Fitting community service into a busy schedule is difficult
     invalidated: false # whether this has been invalidated. Used to show change
-    confidence: 2
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
-
-  - title: Parents confused by technology
-    invalidated: true # whether this has been invalidated. Used to show change
-    confidence: 10
+    confidence: 
     description: |
       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
@@ -28,9 +19,9 @@ problem:
       commodo consequat.
 
   - title: |
-     *Existing alternatives*: Flickr, SmugMug, MobileMe, Facebook
+     *Existing alternatives*: -
     invalidated: false # whether this has been invalidated. Used to show change
-    confidence: 7
+    confidence: 
     description: |
       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
@@ -48,9 +39,9 @@ cost_structure: # ... etc
       veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
       commodo consequat.
 
-  - title: People costs (40hrs * $65/hr = $10k/mo)
+  - title: People costs (40hrs * $?/hr = $?/mo)
     invalidated: false # whether this has been invalidated. Used to show change
-    confidence: 3
+    confidence: 
     description: |
       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
@@ -60,9 +51,9 @@ cost_structure: # ... etc
 
 solution: # ... etc
 
-  - title: Instant, no upload sharing
+  - title: Takes geolocation of volunteers
     invalidated: false # whether this has been invalidated. Used to show change
-    confidence: 2
+    confidence: 
     description: |
       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
@@ -70,18 +61,18 @@ solution: # ... etc
       commodo consequat.
 
 
-  - title: iPhoto/folder integration
+  - title: Compiles various volunteering options based on location and schedule of user
     invalidated: false # whether this has been invalidated. Used to show change
-    confidence: 9
+    confidence: 
     description: |
       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
       veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
       commodo consequat.
 
-  - title: Better notification tools
+  - title: Sends push notifications to user
     invalidated: false # whether this has been invalidated. Used to show change
-    confidence: 1
+    confidence: 
     description: |
       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor inci didunt ut labore et dolore magna aliqua. Ut enim ad minim
@@ -89,32 +80,33 @@ solution: # ... etc
       commodo conse quat.
 
 key_metrics:
-  - title: A - Sign up
-  - title: A - Created first gallery
-  - title: R - Shared an album and/or video
-  - title: R - invited family and friends
-  - title: R - Paid after trial
+  - title: Number of volunteers
+  - title: Volunteer projects completed
+  - title: Number of hours volunteered
+  - title: Number of volunteer organizations signed up
 
 
 value_proposition:
-  - title: The fastest way to share your photos and videos
+  - title: A convenient time and distance-wise way to engage in community service
   - title: |
-      *High level concept:* Photo and video sharing without the uploading
+      *High level concept:* Provides user oportunities based on geolocation
 
 unfair_advantage:
-  - title: community
+  - title: unsure at the moment!
 
 channels:
-  - title: Fiends
-  - title: Daycare
-  - title: Birthday parties
-  - title: AdWords
+  - title: Service blogs
+  - title: College community organizations
+  - title: Volunteering interest groups
+  - title: Middle school communities
   - title: Facebook
   - title: Word of mouth
 
 customer_segments:
-  - title: Parents (creators)
-  - title: Family and friends (viewers)
+  - title: Middle-aged busy people with full time job
+  - title: Busy parents with young children
+  - title: Millenials 
+  - title: Volunteer organizations 
   - title: |
-      *Early adopter*: Parents with young kids
+      *Early adopter*: Busy parents with young children
 ---
