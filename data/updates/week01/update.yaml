@@ -18,7 +18,7 @@ This week we fixed up our repo problems from last week. We interviewed [Dwight H
 service organization, which is recognized as the central hub for service and the umbrella society
 over a few smaller volunteering organizations such as Hunger Heroes and programmes like Freshman in Service. Here are 
 the [Dwight Hall findings](https://docs.google.com/a/yale.edu/document/d/1CYgLnPiSXjOpmcTVRNrLExHSowRQMbcr16o0sI13EnE/edit?usp=sharing)
-We also interviewed an organization, Building Bridges as well as five volunteers. Here's the link to the 
+We also interviewed an organization, Building Bridges as well as three volunteers. Here's the link to the 
 key findings from [Building Bridges](https://docs.google.com/a/yale.edu/document/d/1NECKkiY6dlaWCV8EkOT-AZdayIhdFGJgA98ZvztIqsc/edit?usp=sharing)
 and the [volunteers](https://docs.google.com/a/yale.edu/document/d/1lz_oKjJjHj_Wnny8nYyf8AYaDF8gKIe_G2sMW44YZRg/edit?usp=sharing)  
 
@@ -52,6 +52,8 @@ and the [volunteers](https://docs.google.com/a/yale.edu/document/d/1lz_oKjJjHj_W
   * Age: College students and recent graduates 
   * Type of volunteering opportunities: Short commitment with none or very few pre requisites required from volunteers
 
+**UPDATED INFO FROM FROM WEEK 00**
+
 Who is our customer or customers?
 
   * Millennials
@@ -66,9 +68,12 @@ What is their *pain*?
 What kind of software do you think will solve their pain?
   * Taking the geolocation and schedule of each user and compiling a list of options for them
   * Being able to see reviews from previous volunteers 
+  * Being able to donate easily to the organizations they volunteered at and loved
 
 How do you know these things?
   * Personal experience of wanting to do service but being unable to find the time to research  
+  * Based on the volunteer interview we conductetr
+  
 
 How will you reach these customers and convert them into users of your app?
   * College community organizations, especially through Dwight hall (the largest student run volunteer umbrella organization)
@@ -111,7 +116,7 @@ Now that you know the biggest risks, how could you most swiftly allay your fears
 
 How can we maximize impact and what do we need to build?
   * Getting as many organizations and users registered
-  * Partnering with Dwight Hall's outreach programme, which is trong to get even non student, New Haven residents to volunteer
+  * Partnering with Dwight Hall's outreach programme, which is trying to get even non student, New Haven residents to volunteer
   * Push notifications are an annoying blessing
   * Implementation in public schools - make this an app teachers use to organize class volunteer trips
 
@@ -123,6 +128,7 @@ How will software function?
 Describe the application architecture and technical choices needed to build that software. 
 > How is it divided between client and server? 
   * We will use the MVC model (JavaScript for both client and server side)
+  * More details are in our app flow above
   
 > How do they communicate? 
   * Client interacts with the view layer, which as described above may incluse logging in, selecting categories
