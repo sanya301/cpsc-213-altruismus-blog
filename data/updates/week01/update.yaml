@@ -14,38 +14,54 @@ news:
 
 **WEEK SUMMARY**
 
-This week we fixed up our repo problems from last week. We interviewed [Dwight Hall] 
-(http://dwighthall.org/about-us/history) – Yale's university-affiliated, independent, 
+This week we fixed up our repo problems from last week. We interviewed [Dwight Hall](http://dwighthall.org/about-us/history) – Yale's university-affiliated, independent, 
 service organization, which is recognized as the central hub for service and the umbrella society
-over a few smaller volunteering organizations such as Hunger Heroes and Freshman in Service. We also
-interviewed ??? volunteers. Here's the [link](https://docs.google.com/a/yale.edu/document/d/1lz_oKjJjHj_Wnny8nYyf8AYaDF8gKIe_G2sMW44YZRg/edit?usp=sharing) to our key findings from the organizations and 
+over a few smaller volunteering organizations such as Hunger Heroes and programmes like Freshman in Service. We also
+interviewed five volunteers. Here's the [link](https://docs.google.com/a/yale.edu/document/d/1lz_oKjJjHj_Wnny8nYyf8AYaDF8gKIe_G2sMW44YZRg/edit?usp=sharing) to our key findings from the organizations and 
 volunteers. 
+
+**ADDRESSING CONCERNS FROM WEEK 00**
+
+*Two Sided Market*
+  * Even though there seems to be different requirements for the two markets- labor providers and labor seekers, 
+  we can have a very similar layout and interface for both of these sides and thus, manage and reduce our work
+  ![App Flow](https://docs.google.com/a/yale.edu/presentation/d/1mwYujraCcggeLGaNWVQ_kNMYbZuifWWy-QUICtsX9YQ/htmlpresent)
+
+*Existing Solutions*
+  * **Based on our volunteer side interviews**, volunteers usually use email lists, posters and organizations they are already familiar 
+  with to look for more opportunities.
+  * **Based on our volunteering organizations side interviews**, they usually use targetted emailing lists, facebook groups to 
+  advertise any volunteering opportunities
+  * **Based on our research**, there are a few existing applications such as VolunteerMatch that provides a list of volunteering
+  opportunities based on preferences or GiveGab that combines social media and volunteering. Some others are [listed here](http://www.npo.io/25-volunteer-apps-everyone-needs/)
+
+*How we are different*
+  * No application seems to be providing the opportunity to volunteers to donate as well as volunteer but we plan on adding
+  that functionality to enhance user experience
+  * We plan on having a simpler interface than other applications
+  * Even though there seems to be a few available applications for volunteering opportunities, both organizations and
+  volunteers that we interviewed don't know about their existence and haven't used them. However, when we told them about our 
+  idea, they were more than enthusiastic about using such an app. The executive committee president from Dwight Hall has even 
+  expressed interest in collaborating or partenering with us. We plan on advertising it well and making our application the 
+  primary platform through which the organizations get volunteers
+
+*More focussed initial user base*
+  * Geography: New Haven, especially the Yale community or Yale based community organizations
+  * Age: College students and recent graduates 
+  * Type of volunteering opportunities: Short commitment with none or very few pre requisites required from volunteers
 
 Who is our customer or customers?
 
-**OVERVIEW**
   * Millennials
   * Students in college 
   * Students just out of college
   * Middle-aged people in a full-time job with or without children
   * Middle schools
-  
-**FURTHER BREAKDOWN**
-  * Age - 
-  * Geography - 
-  * Political leaning - 
-  * Activity -
-  * MORE CATEGORIES ???
 
 What is their *pain*?
   * Time constraint to perform community service (to do research etc.)
   * Lack of knowledge 
   * Not a lot of options
-  
-**BASED ON FINDINGS FROM DWIGHT**  
-  * 
-  *
-  *
   
 What kind of software do you think will solve their pain?
   * Taking the geolocation and schedule of each user and compiling a list of options for them
@@ -74,7 +90,8 @@ How do you imagine that you would support this venture? Is it non-profit? Is it 
 Our initial plan was to make it a for-profit venture – we planned on charging a small monthly fee, 
 a minimum amount of $1.99 for supporting the app, and anything above $1.99 will 
 go towards an organization. However after our discussion with Dwight Hall and interviewing some volutneers,
-we are leaning towards making this non-profit.
+we are leaning towards making this non-profit, but we will still have constant reminders about the available 
+opportunity to donate easily.
 
 What are the biggest risks? 
   * Lack of operating costs
