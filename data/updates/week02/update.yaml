@@ -23,19 +23,63 @@ on putting up a basic landing page, but due to no web development experience bef
 * Contacting more volunteer service organizations, interviewing them and getting them interested in signing up.
 * Interview more volunteers so that we can start consolidating more data
 * Getting a basic landing page up
-* Refinig app flow
 * Deciding how we ultimately want our various pages to look like.
 * Making sure Dwight Hall is still interested as we didn't hear back from Anthony, the executive committee president for a few days
 
 **DID WE MEET THESE GOALS?**
 **Yes, we met most of the goals!** This was a tough week in terms of midterms and especially spring break but we accomplished the following:
+
 * We decided to go with **non-profit**! Based on our discussions with volunteer organization leaders like Anthony (from Dwight Hall) and 
-Melanie Bauer (from Family Science Night), we inferred that it would be best to be a non-profit as this whole community of volunteer service
+Melanie Bauer (from Family Science Night), we  inferred that it would be best to be a non-profit as this whole community of volunteer service
 is about giving and it wouldn't be a great idea to make a profit out of it. Moreover, we discussed this with Kyle and he also thought it would
 be a good idea. Based on our interviews, we also realized that most volunteers and organizations aren't interested in paying for the app, beyond
 perhaps a minor fee for signing up.
+
 * We sent out emails to three more organizations we thought would be interested and easy to get in touch with: Family Science Night, 
-New Haven RAMP and AIDS Walk New Haven.
+New Haven RAMP and AIDS Walk New Haven. Two of the three organizations have responded. 
+
+1. **Family Science Night:** We were able to [interview Melanie Bauer] 
+(https://docs.google.com/a/yale.edu/document/d/1Cl-a69P3EN6yCAqYgJdLme1Sm4pDGURjxKYKPNnPrx0/edit?usp=sharing) from 
+Family Science Night. She was extremely enthusiastic about our app as she wanted to basically find new places she could advertise 
+for volunteers. 
+> Our main findings from this interview were: Organizations have a pre-existing way through which they gather volunteer info eg. Google docs
+> *Problem: * These organizations may not be willing to change their pre-existing method
+> *Solution:* Make our app so easy to use that they will switch to our app becaise of convenience.
+> *How to do this:* Show them our easy interface by faking the app
+
+2. **New Haven RAMP:** Elena Hodges from New Haven RAMP responded to our email saying that she is very interested in our app. However, she was leaving for spring
+break early and will meet us the first week after spring break ends
+
+3. **AIDS Walk New Haven:** No response till now
+
+* We interviewed four more volunteers in addition to the three from last week. Here's the link to our key findings from [volunteer interviews]
+(https://docs.google.com/a/yale.edu/spreadsheets/d/1WNyZfFFEZH-xD805z2NSI_SCNjjpoluTZVZ_tOJrxQo/edit?usp=sharing)
+
+* This is where we struggled the most. Firstly, we feel like this is something we could figure out together, atleast the initial steps until we 
+get familiar with building the app, but are finding it extremely hard to do different parts alone as we can't meet up due to spring break and 
+midterms earlier in the week. We couldn't figure out how to integrate the HTML 5 UP template we had chosen with heroku as it kept crashing.
+We do have an extremely basic link with our app domain up on the web. Our app will potentially be called [Altruismus] 
+(https://altruismus.herokuapp.com/).
+
+* We had a long discussion about the various components of our app and sketched out how we envision the app would look like so 
+we can start building it and so that we know what we will show as the "fake" version of our app by potentially using slideshow.
+We discussed how can we minimize the amount of information we need from [volunteers] 
+(https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtTVpYRmxxUlNQNWM/view?usp=sharing) and [volunteer organizations] 
+(https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtcVNXVzVLQ3M2Qk0/view?usp=sharing) during sign up, deciding whether 
+we want different pages for organizations v/s volunteers on our [landing page] 
+(https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtbk1UQWFueXlSaHc/view?usp=sharing).
+
+* Anthony from Dwight Hall recently got back to us saying that he still thinks that "our app is a great idea."
+He has talked to other Dwight Hall staff and the Outreach coordinator will get in touch with us soon.
+
+**NEXT STEPS**
+* Get a basic app landing page up that can allow volunteers and organizations to sign uo for more updates about our app by
+entering their email IDs. The landing page will give a basic explanantion about what our app means for volunteers and organizations
+* Reach out to 5 more organizations- not everyone responds but hopefully get a few to sign up and gather more metrics from these
+organizations
+* Interview 5 more potential volunteers with a different background, especially people who already frequently volunteer, people who
+are associated with Dwight Hall as volunteers and a few non freshmen undergraduates.
+* Interview Elena from New Haven RAMP after spring break ends
 
 
 
