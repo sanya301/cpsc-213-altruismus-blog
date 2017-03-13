@@ -63,11 +63,19 @@ We do have an extremely basic link with our app domain up on the web. Our app wi
 
 * We had a long discussion about the various components of our app and sketched out how we envision the app would look like so 
 we can start building it and so that we know what we will show as the "fake" version of our app by potentially using slideshow.
-We discussed how can we minimize the amount of information we need from [volunteers] 
+> * We discussed how can we minimize the amount of information we need from [volunteers] 
 (https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtTVpYRmxxUlNQNWM/view?usp=sharing) and [volunteer organizations] 
-(https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtcVNXVzVLQ3M2Qk0/view?usp=sharing) during sign up, deciding whether 
-we want different pages for organizations v/s volunteers on our [landing page] 
-(https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtbk1UQWFueXlSaHc/view?usp=sharing).
+(https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtcVNXVzVLQ3M2Qk0/view?usp=sharing) during sign up
+> * We discussed whether we want different pages for organizations v/s volunteers on our [landing page] 
+(https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtbk1UQWFueXlSaHc/view?usp=sharing). We agreed on having two different pages
+to increase custmer satisfaction, clickability and ease of access of information, but still plan on having a very similar layout for both
+in accordance with week 00's basic [app flow] (https://docs.google.com/a/yale.edu/presentation/d/1mwYujraCcggeLGaNWVQ_kNMYbZuifWWy-QUICtsX9YQ/htmlpresent)
+and week 00's solution to reduce our work despite a two sided market.
+> * We also figured out what all indormation organizations would like to be able to add for putting up [new events] 
+(https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtMHlhQ1ZyLWxTb0k/view?usp=sharing). We added several new features 
+we hadn't thought of before based on our talk and observation with Family Science Night such as ability to ask additional 
+questions (such as in the case of FSN if volunteers needed transportation), as well as the type of volunteers they were
+looking foe (such as FSN prefers undergraduates and above, especially with a science background)
 
 * Anthony from Dwight Hall recently got back to us saying that he still thinks that "our app is a great idea."
 He has talked to other Dwight Hall staff and the Outreach coordinator will get in touch with us soon.
