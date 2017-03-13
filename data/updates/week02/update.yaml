@@ -1,5 +1,5 @@
 ---
-title: Trying to get our app running
+title: Trying to Land Our Landing Page
 summary: |
   Refined our MVP specs! Worked on the app flow, gathering metrics from our markets, clarifying other 
   existing solutions and fixed up the blog with the proper repo this time (hopefully).
@@ -38,8 +38,7 @@ perhaps a minor fee for signing up.
 * We sent out emails to three more organizations we thought would be interested and easy to get in touch with: Family Science Night, 
 New Haven RAMP and AIDS Walk New Haven. Two of the three organizations have responded. 
 
-1. **Family Science Night:** We were able to [interview Melanie Bauer] 
-(https://docs.google.com/a/yale.edu/document/d/1Cl-a69P3EN6yCAqYgJdLme1Sm4pDGURjxKYKPNnPrx0/edit?usp=sharing) from 
+1. **Family Science Night:** We were able to [interview Melanie Bauer](https://docs.google.com/a/yale.edu/document/d/1Cl-a69P3EN6yCAqYgJdLme1Sm4pDGURjxKYKPNnPrx0/edit?usp=sharing) from 
 Family Science Night. She was extremely enthusiastic about our app as she wanted to basically find new places she could advertise 
 for volunteers. 
 > Our main findings from this interview were: Organizations have a pre-existing way through which they gather volunteer info eg. Google docs
@@ -52,27 +51,21 @@ break early and will meet us the first week after spring break ends
 
 3. **AIDS Walk New Haven:** No response till now
 
-* We interviewed four more volunteers in addition to the three from last week. Here's the link to our key findings from [volunteer interviews]
-(https://docs.google.com/a/yale.edu/spreadsheets/d/1WNyZfFFEZH-xD805z2NSI_SCNjjpoluTZVZ_tOJrxQo/edit?usp=sharing)
+* We interviewed four more volunteers in addition to the three from last week. Here's the link to our key findings from [volunteer interviews](https://docs.google.com/a/yale.edu/spreadsheets/d/1WNyZfFFEZH-xD805z2NSI_SCNjjpoluTZVZ_tOJrxQo/edit?usp=sharing)
 
 * This is where we struggled the most. Firstly, we feel like this is something we could figure out together, atleast the initial steps until we 
 get familiar with building the app, but are finding it extremely hard to do different parts alone as we can't meet up due to spring break and 
 midterms earlier in the week. We couldn't figure out how to integrate the HTML 5 UP template we had chosen with heroku as it kept crashing.
-We do have an extremely basic link with our app domain up on the web. Our app will potentially be called [Altruismus] 
-(https://altruismus.herokuapp.com/).
+We do have an extremely basic link with our app domain up on the web. Our app will potentially be called [Altruismus](https://altruismus.herokuapp.com/).
 
 * We had a long discussion about the various components of our app and sketched out how we envision the app would look like so 
 we can start building it and so that we know what we will show as the "fake" version of our app by potentially using slideshow.
-> * We discussed how can we minimize the amount of information we need from [volunteers] 
-(https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtTVpYRmxxUlNQNWM/view?usp=sharing) and [volunteer organizations] 
-(https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtcVNXVzVLQ3M2Qk0/view?usp=sharing) during sign up
-> * We discussed whether we want different pages for organizations v/s volunteers on our [landing page] 
-(https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtbk1UQWFueXlSaHc/view?usp=sharing). We agreed on having two different pages
+> * We discussed how can we minimize the amount of information we need from [volunteers](https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtTVpYRmxxUlNQNWM/view?usp=sharing) and [volunteer organizations](https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtcVNXVzVLQ3M2Qk0/view?usp=sharing) during sign up
+> * We discussed whether we want different pages for organizations v/s volunteers on our [landing page](https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtbk1UQWFueXlSaHc/view?usp=sharing). We agreed on having two different pages
 to increase custmer satisfaction, clickability and ease of access of information, but still plan on having a very similar layout for both
-in accordance with week 00's basic [app flow] (https://docs.google.com/a/yale.edu/presentation/d/1mwYujraCcggeLGaNWVQ_kNMYbZuifWWy-QUICtsX9YQ/htmlpresent)
+in accordance with week 00's basic [app flow](https://docs.google.com/a/yale.edu/presentation/d/1mwYujraCcggeLGaNWVQ_kNMYbZuifWWy-QUICtsX9YQ/htmlpresent)
 and week 00's solution to reduce our work despite a two sided market.
-> * We also figured out what all indormation organizations would like to be able to add for putting up [new events] 
-(https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtMHlhQ1ZyLWxTb0k/view?usp=sharing). We added several new features 
+> * We also figured out what all indormation organizations would like to be able to add for putting up [new events](https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtMHlhQ1ZyLWxTb0k/view?usp=sharing). We added several new features 
 we hadn't thought of before based on our talk and observation with Family Science Night such as ability to ask additional 
 questions (such as in the case of FSN if volunteers needed transportation), as well as the type of volunteers they were
 looking foe (such as FSN prefers undergraduates and above, especially with a science background)
@@ -89,6 +82,13 @@ organizations
 are associated with Dwight Hall as volunteers and a few non freshmen undergraduates.
 * Interview Elena from New Haven RAMP after spring break ends
 
+  fin. 
+  
+> The quote mentioned in class, with a slight twist in celebration of International Women's Day -
+
+> *“The Women in the Arena”*
+> ― Theodore Roosevelt, adapted by Brené Brown
+  ![Image of Quote](http://cdn.zenpencils.com/wp-content/uploads/2013-12-09-brenebrown.jpg)
 
 
 
