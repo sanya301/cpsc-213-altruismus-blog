@@ -18,15 +18,6 @@ problem:
       veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
       commodo consequat.
 
-  - title: |
-     *Existing alternatives*: -
-    invalidated: false # whether this has been invalidated. Used to show change
-    confidence: 
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
 
 cost_structure: # ... etc
 
@@ -51,7 +42,7 @@ cost_structure: # ... etc
 
 solution: # ... etc
 
-  - title: Takes geolocation of volunteers
+  - title: Takes geolocation, time and date of of volunteers
     invalidated: false # whether this has been invalidated. Used to show change
     confidence: 
     description: |
@@ -70,7 +61,7 @@ solution: # ... etc
       veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
       commodo consequat.
 
-  - title: Sends push notifications to user
+  - title: Sends push notifications to user, especially for donations
     invalidated: false # whether this has been invalidated. Used to show change
     confidence: 
     description: |
@@ -92,7 +83,7 @@ value_proposition:
       *High level concept:* Provides user oportunities based on geolocation
 
 unfair_advantage:
-  - title: unsure at the moment!
+  - title: Ability to donate and have an easy interface to gather data
 
 channels:
   - title: Service blogs
