@@ -1,0 +1,90 @@
+---
+title: 
+summary: |
+  Worked on the app - got the template up and separately worked onn a database for signing in, made slides to fake the app and show to customers.
+  
+news:
+  - title: The app webpage template is up
+    kind: joy
+  - title: Spring break 
+    kind: struggle
+  - title: Figuring out how to allow interested users to signup 
+    kind: learning
+---
+
+**WEEK SUMMARY**
+
+More! More! More! This week we reached out to more organizations. We succeeded in getting the HTML5up template up! We also created 
+slides to fake our app and allow our customers to experience the app and give us feedback. More details below. 
+
+**GOALS FROM LAST WEEK**
+* Get a basic app landing page up that can allow volunteers and organizations to sign up for more updates about our app by
+entering their email IDs. The landing page will give a basic explanantion about what our app means for volunteers and organizations
+* Reach out to 5 more organizations- not everyone responds but hopefully get a few to sign up and gather more metrics from these
+organizations
+* Interview 5 more potential volunteers with a different background, especially people who already frequently volunteer, people who
+are associated with Dwight Hall as volunteers and a few non freshmen undergraduates.
+* Interview Elena from New Haven RAMP after spring break ends
+
+**DID WE MEET THESE GOALS?**
+**We met a lot of the goals considering we were on spring break and no one was on campus!** 
+
+* We did get the HTML 5up template to work and beautified our app. We separately also worked on the database and code for signing 
+
+* We sent out emails to five more organizations we thought would be interested and easy to get in touch with: Family Science Night, 
+New Haven RAMP and AIDS Walk New Haven. Two of the three organizations have responded. 
+
+1. **Family Science Night:** We were able to [interview Melanie Bauer] 
+(https://docs.google.com/a/yale.edu/document/d/1Cl-a69P3EN6yCAqYgJdLme1Sm4pDGURjxKYKPNnPrx0/edit?usp=sharing) from 
+Family Science Night. She was extremely enthusiastic about our app as she wanted to basically find new places she could advertise 
+for volunteers. 
+> Our main findings from this interview were: Organizations have a pre-existing way through which they gather volunteer info eg. Google docs
+> *Problem: * These organizations may not be willing to change their pre-existing method
+> *Solution:* Make our app so easy to use that they will switch to our app becaise of convenience.
+> *How to do this:* Show them our easy interface by faking the app
+
+2. **New Haven RAMP:** Elena Hodges from New Haven RAMP responded to our email saying that she is very interested in our app. However, she was leaving for spring
+break early and will meet us the first week after spring break ends
+
+3. **AIDS Walk New Haven:** No response till now
+
+* We interviewed four more volunteers in addition to the three from last week. Here's the link to our key findings from [volunteer interviews]
+(https://docs.google.com/a/yale.edu/spreadsheets/d/1WNyZfFFEZH-xD805z2NSI_SCNjjpoluTZVZ_tOJrxQo/edit?usp=sharing)
+
+* This is where we struggled the most. Firstly, we feel like this is something we could figure out together, atleast the initial steps until we 
+get familiar with building the app, but are finding it extremely hard to do different parts alone as we can't meet up due to spring break and 
+midterms earlier in the week. We couldn't figure out how to integrate the HTML 5 UP template we had chosen with heroku as it kept crashing.
+We do have an extremely basic link with our app domain up on the web. Our app will potentially be called [Altruismus] 
+(https://altruismus.herokuapp.com/).
+
+* We had a long discussion about the various components of our app and sketched out how we envision the app would look like so 
+we can start building it and so that we know what we will show as the "fake" version of our app by potentially using slideshow.
+> * We discussed how can we minimize the amount of information we need from [volunteers] 
+(https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtTVpYRmxxUlNQNWM/view?usp=sharing) and [volunteer organizations] 
+(https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtcVNXVzVLQ3M2Qk0/view?usp=sharing) during sign up
+> * We discussed whether we want different pages for organizations v/s volunteers on our [landing page] 
+(https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtbk1UQWFueXlSaHc/view?usp=sharing). We agreed on having two different pages
+to increase custmer satisfaction, clickability and ease of access of information, but still plan on having a very similar layout for both
+in accordance with week 00's basic [app flow] (https://docs.google.com/a/yale.edu/presentation/d/1mwYujraCcggeLGaNWVQ_kNMYbZuifWWy-QUICtsX9YQ/htmlpresent)
+and week 00's solution to reduce our work despite a two sided market.
+> * We also figured out what all indormation organizations would like to be able to add for putting up [new events] 
+(https://drive.google.com/a/yale.edu/file/d/0B3qHVNyc7ZFtMHlhQ1ZyLWxTb0k/view?usp=sharing). We added several new features 
+we hadn't thought of before based on our talk and observation with Family Science Night such as ability to ask additional 
+questions (such as in the case of FSN if volunteers needed transportation), as well as the type of volunteers they were
+looking foe (such as FSN prefers undergraduates and above, especially with a science background)
+
+* Anthony from Dwight Hall recently got back to us saying that he still thinks that "our app is a great idea."
+He has talked to other Dwight Hall staff and the Outreach coordinator will get in touch with us soon.
+
+**NEXT STEPS**
+* Get a basic app landing page up that can allow volunteers and organizations to sign uo for more updates about our app by
+entering their email IDs. The landing page will give a basic explanantion about what our app means for volunteers and organizations
+* Reach out to 5 more organizations- not everyone responds but hopefully get a few to sign up and gather more metrics from these
+organizations
+* Interview 5 more potential volunteers with a different background, especially people who already frequently volunteer, people who
+are associated with Dwight Hall as volunteers and a few non freshmen undergraduates.
+* Interview Elena from New Haven RAMP after spring break ends
+
+
+
+
