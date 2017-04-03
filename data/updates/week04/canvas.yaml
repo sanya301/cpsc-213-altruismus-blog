@@ -1,0 +1,103 @@
+---
+problem:
+  - title: Searching for an organization to volunteer for is very time consuming
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 
+    description: |
+     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+
+  - title: Fitting community service into a busy schedule is difficult
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+
+
+cost_structure: # ... etc
+
+  - title: Hosting (currently $30 on Heroku)
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 8
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+
+  - title: People costs (40hrs * $?/hr = $?/mo)
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+
+
+solution: # ... etc
+
+  - title: Takes geolocation, time and date of of volunteers
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+
+
+  - title: Compiles various volunteering options based on location and schedule of user
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+
+  - title: Sends push notifications to user, especially for donations
+    invalidated: false # whether this has been invalidated. Used to show change
+    confidence: 
+    description: |
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor inci didunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo conse quat.
+
+key_metrics:
+  - title: Number of volunteers
+  - title: Volunteer projects completed
+  - title: Number of hours volunteered
+  - title: Number of volunteer organizations signed up
+
+
+value_proposition:
+  - title: A convenient time and distance-wise way to engage in community service
+  - title: |
+      *High level concept:* Provides user oportunities based on geolocation
+
+unfair_advantage:
+  - title: Ability to donate and have an easy interface to gather data
+
+channels:
+  - title: Service blogs
+  - title: College community organizations
+  - title: Volunteering interest groups
+  - title: Middle school communities
+  - title: Facebook
+  - title: Word of mouth
+
+customer_segments:
+  - title: Middle-aged busy people with full time job
+  - title: Busy parents with young children
+  - title: Millenials 
+  - title: Volunteer organizations 
+  - title: |
+      *Early adopter*: Busy parents with young children
+---

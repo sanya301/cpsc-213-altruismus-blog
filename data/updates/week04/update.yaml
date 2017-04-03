@@ -1,0 +1,70 @@
+---
+title: Database Difficulties
+summary: |
+  Cleaned up website (no more latin yay!) - scheduled more meetings with potential organizations - struggled on the database.
+  
+news:
+  - title: The app webpage template is up
+    kind: joy
+  - title: Midterm season
+    kind: struggle
+  - title: Mongodb/Mongoose
+    kind: learning
+---
+
+**WEEK SUMMARY**
+
+This week we cleaned up our website page - no more Latin nonsense and made it more user-friendly and appealing. 
+We also we worked on the sign-up pages for both volunteers and organizations. We coded separately to try 
+and incorporate a database – thank god for github and branches, because it was a disaster (that hopefully 
+office hours/more googling will fix). We reached out to another organization on meeting up. 
+
+**GOALS FROM LAST WEEK**
+* Get a basic app landing page up that can allow volunteers and organizations to sign uo for more updates 
+about our app by entering their email IDs. The landing page will give a basic explanantion about what our app 
+means for volunteers and organizations
+* Reach out to 5 more organizations and volunteers 
+* Interview Elena from New Haven RAMP and Sarah from Yale Sustainable Food Program 
+* Show/test our fake application to potential users - both volunteers and organizations, will probably 
+reach out to volunteers first
+
+**DID WE MEET THESE GOALS?**
+
+* We managed to put up the sign-up pages for volunteers and organizations, and coded out a basic structure
+ for what data we needed to collect from them, but we did not manage to get the database working. We also
+ clarified, beautified and cleaned up our landing page. For example, we chose the colour orange for 
+ our header because  
+>"Orange is known to generate positive feelings and can be a great choice for the colour
+> of your CTA" 
+> The Ultimate Guide To Conversion Centered Design (the Unbounce reading, on 
+> Conversion centered design). 
+
+* We reached out to one more organization, and will be setting up a meeting with them in the near future,
+however we decided that right now to focus more on coding & getting somethign tangible up since we're 
+already collected a signinficant amount of data
+
+* We have postponed the meeting with Elena (New Haven RAMP) and Sarah (Yale Sustainable Food Program), and
+are waiting till we have a substantial website to show them - to potentially get them to create 
+an account for their organization when we have the meeting with them. 
+
+**NEXT STEPS**
+* Going to office hours to get help on the database.
+* Getting a substantial website ready to show to organizations and volunteers
+* Touch base again with the previous organizations and volunteers that we made contact with (priority is on
+organizations) to set up a meeting with them to preview the website
+* Work on a lower fidelity mockup that shows the app's workflow. Will probably use basalmiq as suggested.
+
+fin. 
+
+> *“Mountains & Valleys”*
+> “We are not made for the mountains, for sunrises, or for the other beautiful attractions in life 
+> - those are simply intended to be moments of inspiration.
+> We are made for the valley and the ordinary things of life 
+> and that is where we have to prove our stamina and strength.”
+> ― Oswald Chambers
+
+> ![Image of Quote](http://cdn.zenpencils.com/wp-content/uploads/2012-08-14-dragons2.jpg)
+
+
+
+
