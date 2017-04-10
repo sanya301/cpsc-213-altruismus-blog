@@ -15,10 +15,10 @@ news:
 
 **WEEK SUMMARY**
 
-This week we refined the [website page](https://altruismus.herokuapp.com/) somemore - added a short blurb that summarizes what our app
+This week we drastically refined the [website page](https://altruismus.herokuapp.com/) - added a short blurb that summarizes what our app
 does, as well as an about page for organizations and volunteers respectively. We also added in a static page with a basic layout of what
 the main page will look like, once the user (on the organization side) has logged in. We  finally settled on MLab and connected up 
-our database for the signup and login pages. We also drated a new set of questions to ask volunteers based off what we have 
+our database for the signup and login pages. We also drafted a new set of questions to ask volunteers based off what we have 
 currently solidified on our app. During office hours, we pseudocoded/scribbled/drew on the whiteboard our next steps to take 
 coding-wise, with the help of a TA. 
 
@@ -27,7 +27,7 @@ we could improve on for our final pitch.
 
 **GOALS FROM LAST WEEK**
 
-* Going to office hours to get help on the database.
+* Going to office hours to get help on the database and start thinking about the location/map API.
 * Getting a substantial website ready to show to organizations and volunteers and touch base again with the previous organizations 
 and volunteers that we made contact with (priority is on organizations) to set up a meeting with them to preview the website
 
@@ -35,11 +35,17 @@ and volunteers that we made contact with (priority is on organizations) to set u
 
 * We went to office hours and solved a few problems we would probably have taken hours to solve on our own. We also came up with a 
 loose idea of what our next steps would be
-* Although we do have a database connected, we didn't get it up and running in time to test out with organizations or volunteers
+* We finally have a database up and running! And users can *sign up* for our app though we are still to put up pages that they 
+will see after sign up. This has been a long and arduous process. One of the recent problems we encountered were that clou9 just 
+wasn't allowing us to connect to our perfectly up and running database. After painfully googling for a while, we realized 
+that this was because the mongoose, mongodb and mongo shell version were together incompatible. It was also not easy to find how to 
+update the mongo shell version from 2.6.12 to a 3+ version. But with more googling we did it and almost had tears in our eyes when
+it showed up as connected. Although we do have a database connected, we didn't get it up and running in time to test out with 
+organizations or volunteers
 
 **WEBSITE ADDITIONS**
 
-Here's what the organization's [main page](http://altruismus.herokuapp.com/userview.ejs) will look like.
+Here's what the organization's [main page](http://altruismus.herokuapp.com/oview.ejs) will look like.
 
 **FUTURE STEPS**
 
