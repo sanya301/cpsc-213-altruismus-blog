@@ -15,8 +15,10 @@ news:
 
 **WEEK SUMMARY**
 
-This week we added more usability to our [website page](https://altruismus.herokuapp.com/). We conducted a second interview session
-with 5 volunteers and 2 organizations - Splash and the Debating society. From those interviews, we gathered some data (that
+This week we added more usability to our [website page](https://altruismus.herokuapp.com/). We conducted interviews across both 
+volunteers and organizations, focused on the appearance, usability, format, and utility of the web interface app demonstration. 
+Of the volunteer users interviewed, the response was broadly positive on the simple format of the site and its primary functionality.
+The feedback was focused on additional dimensions of customization and some simplification of the process flow. From those interviews, we gathered some data (that
 is presented below) that we found useful in making our website better and more user-friendly. We refined the home page and deleted 
 some buttons based on user interviews. We shortened the blurb to make it more straigthforward and easy to read - also another
 measured step taken after conducting user interviews. We also added an "add event" form for organizations to create events. Users and
@@ -28,6 +30,35 @@ organizations can now sign up/login, but we're having some slight issues with au
 Here's what the organization's [http://altruismus.herokuapp.com/oview) now looks like - we added the edit event/delete buttons 
 (albeit without any functionality yet). The add event button works and takes you to a form for creating events. 
 
+**VOLUNTEER DATA**
+
+This week we conducted a second round of interviews with volunteers, and focused more on collecting their input on 
+the usability of the website. From the volunteer testing side, 5 interviews were conducted with the volunteers being
+walked through. Some key takes from this experiment include the following. 
+
+*The main page is regarded as usable, but has a lot of links and there is some lack of clarity as to whether the user should click 
+on Sign up, Login at the top of the page, or the Sign up links in the middle of the page. 
+
+*On the sign up page, one user commented that date of birth is probably not necessary, and two 
+noted that the name field could be a single line, making the process minimally quicker. 
+
+*More than one also wanted to be logged in directly after signing up so they don’t need to fill out the data again.
+
+*In terms of the volunteer experience with event additions. The comments were mostly about sorting the volunteer opportunities.
+Users want to be able to organize the output data further once opportunities are returned. 
+One user also commented that they would like to set a max time for the event duration and have some 
+required data auto populate. 
+
+*The contact page yielded no major comments. The About Us page was well generally received.
+
+Here's a [link](https://drive.google.com/file/d/0B4Nb96mGrNyBWjVlemZQYWt1ek0/view?usp=sharing) to a 
+summary of data gathered from 5 volunteers.
+
+**ORGANIZATION DATA**
+This week we conducted a second round of interviews with two organizations, and focused on collecting their input on 
+the usability of the website. Here's a link to a summary of data gathered from the two organization, namely [Splash](https://docs.
+google.com/a/yale.edu/document/d/1adaoycjvc3jJkGcnpZkVABJY4bBqMG0pDTIwTNqsrLM/edit?usp=sharing) and
+the [Debating society](https://docs.google.com/a/yale.edu/document/d/1EA58YKB3DagdQXYz-RpRuyencOOosrWoaNas6rCo5KU/edit?usp=sharing).
 
 **NEXT STEPS**
 
@@ -42,7 +73,7 @@ fin.
 > *Roll the Dice*
 > ― Charles Bukowski 
 
-> ![Image of Quote](http://cdn.zenpencils.com/wp-content/uploads/2013-07-09-rollthedice.jpg)
+> ![Image of Quote](http://cdn.zenpencils.com/wp-content/uploads/2013-10-23-minchin.jpg)
 
 
 
