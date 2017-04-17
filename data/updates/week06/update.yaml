@@ -1,0 +1,49 @@
+---
+title: Interviewing for Info
+summary: |
+  Conducted more face-to-face interviews with volunteers and organizations - refined the website - 
+  set up password authentication.
+  
+news:
+  - title: The authentication works! ...
+    kind: joy
+  - title: ...(Sort of)
+    kind: struggle
+  - title: Reading from the database & displaying that info
+    kind: learning
+---
+
+**WEEK SUMMARY**
+
+This week we added more usability to our [website page](https://altruismus.herokuapp.com/). We conducted a second interview session
+with 5 volunteers and 2 organizations - Splash and the Debating society. From those interviews, we gathered some data (that
+is presented below) that we found useful in making our website better and more user-friendly. We refined the home page and deleted 
+some buttons based on user interviews. We shortened the blurb to make it more straigthforward and easy to read - also another
+measured step taken after conducting user interviews. We also added an "add event" form for organizations to create events. Users and
+organizations can now sign up/login, but we're having some slight issues with authentication.
+
+
+**WEBSITE ADDITIONS**
+
+Here's what the organization's [http://altruismus.herokuapp.com/oview) now looks like - we added the edit event/delete buttons 
+(albeit without any functionality yet). The add event button works and takes you to a form for creating events. 
+
+
+**NEXT STEPS**
+
+* Working on getting a (non-static) main page for both volunteers and organizations - although this is the bulk of what 
+our app consists of, and will probably span for more than a week at least
+* Accessing info from the database and displaying select info on the page
+* Getting more feedback from organizations
+* Getting signups from volunteers and organizations
+
+fin. 
+
+> *Roll the Dice*
+> ― Charles Bukowski 
+
+> ![Image of Quote](http://cdn.zenpencils.com/wp-content/uploads/2013-07-09-rollthedice.jpg)
+
+
+
+
